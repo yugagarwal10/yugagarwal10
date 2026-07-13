@@ -1,97 +1,182 @@
-<h1 align="center">Hey 👋 I'm Yug Agarwal</h1>
+<div align="center">
 
-<h3 align="center">
-Building AI Products & Systems That Scale.
-</h3>
+# Hey 👋 I'm Yug Agarwal
 
-<p align="center">
-Helping startups turn ambitious ideas into production-ready AI products.
+### 🚀 Building AI Products That Scale
+
+Helping founders transform ambitious ideas into production-ready AI products.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yugagarwal10&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm an AI Engineer focused on building production-grade AI products instead of prototypes.
+
+I enjoy partnering with founders to turn ideas into scalable software—from architecture and backend systems to AI agents and deployment.
+
+Rather than simply writing code, I like solving business problems through engineering.
+
+---
+
+# ⚡ What I Build
+
+- 🤖 AI Agents
+- 🧠 RAG Systems
+- 💬 AI Chat Applications
+- ⚙️ Backend APIs
+- 🚀 Startup MVPs
+- ☁️ Cloud Infrastructure
+- 📦 Production Ready Systems
+- 🔄 Workflow Automation
+- 📈 Internal AI Tools
+
+---
+
+# 🛠 Tech Stack
+
+### AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+**LLMs • RAG • AI Agents • Prompt Engineering • Vector Databases**
+
+---
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-I'm an AI Engineer passionate about building products from **0 → 1**.
-
-I enjoy working with founders to transform raw ideas into production systems that real users rely on. My work focuses on designing scalable AI infrastructure, building intelligent agents, and shipping products that move beyond prototypes.
-
-Rather than just writing code, I enjoy solving business problems through software.
-
----
-
-## ⚡ What I Build
-
-- 🤖 AI Agents
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 💬 AI Chat Applications
-- ⚙️ Backend Systems
-- 🌐 Full Stack Products
-- ☁️ Cloud Infrastructure
-- 📦 Production APIs
-- 🚀 Startup MVPs
-- 🔄 Workflow Automation
-- 📊 Internal AI Tools
-
----
-
-## 🛠 Tech Stack
-
-### AI
-
-LLMs • RAG • Vector Databases • Prompt Engineering • AI Agents
-
-### Backend
-
-Python • FastAPI • Node.js • Express.js
-
 ### Frontend
 
-React • Next.js • TypeScript • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+</p>
+
+---
 
 ### Database
 
-MongoDB • PostgreSQL • Redis
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+
+---
 
 ### Cloud & DevOps
 
-Docker • GitHub Actions • Linux • AWS • CI/CD
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,githubactions" />
+</p>
 
 ---
 
-## 🎯 Currently Exploring
+# 🚀 Featured Projects
+
+### 🤖 AI Portfolio
+A portfolio where visitors can directly chat with my AI.
+
+---
+
+### 🧠 Legal RAG Assistant
+Production-ready Retrieval-Augmented Generation system for legal documents.
+
+---
+
+### 📄 AI Resume Builder
+Generate professional resumes using LLMs.
+
+---
+
+### 🏢 AI Attendance ERP
+AI-powered Attendance, Payroll and Employee Management System.
+
+---
+
+### ⚡ Multi-Agent Research System
+Autonomous AI workflow for research and knowledge generation.
+
+---
+
+# 🌱 Currently Exploring
 
 - Multi-Agent Systems
-- Long-Term Memory for AI Agents
 - GraphRAG
-- Agentic Workflows
-- Distributed Systems
+- MCP Servers
 - AI Infrastructure
+- Distributed Systems
+- Cloud Native AI
 
 ---
 
-## 🤝 Open To
+# 📊 GitHub Analytics
 
-✔ Building Startup MVPs
+<p align="center">
 
-✔ AI Product Development
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yugagarwal10&show_icons=true&theme=transparent&hide_border=true"/>
 
-✔ Founding Engineer Opportunities
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yugagarwal10&theme=transparent&hide_border=true"/>
 
-✔ AI Automation Systems
-
-✔ Backend Architecture
-
-✔ Open Source Collaboration
+</p>
 
 ---
 
-## 💭 Philosophy
+# 📈 Activity Graph
 
-> Build products.
->
-> Ship fast.
->
-> Iterate with users.
->
-> Scale what works.
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yugagarwal10&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yugagarwal10&theme=flat&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/yug-agarwal-50019a291">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+> **Build products. Ship fast. Learn continuously. Scale what works.**
+
+</div>
