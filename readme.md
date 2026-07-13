@@ -81,34 +81,6 @@ Rather than simply writing code, I like solving business problems through engine
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,githubactions" />
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Portfolio
-A portfolio where visitors can directly chat with my AI.
-
----
-
-### 🧠 Legal RAG Assistant
-Production-ready Retrieval-Augmented Generation system for legal documents.
-
----
-
-### 📄 AI Resume Builder
-Generate professional resumes using LLMs.
-
----
-
-### 🏢 AI Attendance ERP
-AI-powered Attendance, Payroll and Employee Management System.
-
----
-
-### ⚡ Multi-Agent Research System
-Autonomous AI workflow for research and knowledge generation.
-
----
 
 # 🌱 Currently Exploring
 
@@ -120,58 +92,38 @@ Autonomous AI workflow for research and knowledge generation.
 - Cloud Native AI
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yugagarwal10&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yugagarwal10&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
+<h2 align="center">🤝 Let's Build Something Amazing</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yugagarwal10&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yugagarwal10&theme=flat&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
 <a href="https://linkedin.com/in/yug-agarwal-50019a291">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.icons8.com/fluency/96/domain.png" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/yugagarwal10">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 </p>
 
----
+<p align="center">
+
+Building AI Products • Open to Collaborate • Always Learning 🚀
+
+</p>
 
 <div align="center">
 
