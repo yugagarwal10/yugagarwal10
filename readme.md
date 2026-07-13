@@ -99,11 +99,11 @@ Rather than simply writing code, I like solving business problems through engine
 <img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:yugagarwal214@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://yugagarwal.netlify.app">
 <img src="https://img.icons8.com/fluency/96/domain.png" width="52"/>
 </a>
 
