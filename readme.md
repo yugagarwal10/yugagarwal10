@@ -91,39 +91,31 @@ Rather than simply writing code, I like solving business problems through engine
 - Distributed Systems
 - Cloud Native AI
 
----
-<h2 align="center">🤝 Let's Build Something Amazing</h2>
+<div align="center">
 
-<p align="center">
+## 🤝 Let's Connect
+
 <a href="https://linkedin.com/in/yug-agarwal-50019a291">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://yourportfolio.com">
-<img src="https://img.icons8.com/fluency/96/domain.png" height="50"/>
+<img src="https://img.icons8.com/fluency/96/domain.png" width="52"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/yugagarwal10">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
+**Let's build products people actually use.**
 
-Building AI Products • Open to Collaborate • Always Learning 🚀
-
-</p>
+</div>
 
 <div align="center">
 
